@@ -1,0 +1,12 @@
+.black_background{
+   background-color: black;
+}
+
+.jumbotron h1{
+   color: white;
+}
+
+.icon_small{
+   width: 30px;
+   height: 30px;
+}
