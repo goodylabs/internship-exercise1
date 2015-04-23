@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Anis Allagui</title>
+
+ <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<body>
+<nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">Anis Allagui</a>
+        </div>
+      </div>
+    </nav>
+ 
+
+<div class="container">
+  <div class="jumbotron">
+    <h1>Anis Allagui</h1>
+    <p>Hi, My name is Anis Allagui I'm a 26 years old and i'm a 5th year engineer student
+Specialized in Software engineering and computer
+systems at ESPRIT Private Higher School Of Engineering
+and Technology,Tunis Tunisia</p> 
+  </div>
+  <div class="row">
+    <div class="col-sm-4">
+      <h2>Hobies:</h2>
+     	<p>Videos games
+		<p>Entrepreneurship 
+		<p>Music 
+		<p>New technology 
+		<p>Sport
+    </div>
+    <div class="col-sm-4">
+      <h2>Latest achievements</h2>
+      <a href="#">YESS CONSULTING (07| 2014- 09| 2014)</a>
+      <h3>Junior Software Developer JavaEE</h3>
+      <p>Participation in the development of an ERP
+      (Java / Java EE / Groovy)intervention in time and activite
+		management module.</p>
+		<a href="#">ESPRIT (2010/2011)</a>
+      <h3>Project C++:</h3>
+      <p>worked on the design and development of an application
+		for managing a bank.
+		-Microsoft Visual Studio 2010 C ++ / CLR
+		-Microsoft SQL Serve</p>
+		<a href="#">ESPRIT (2013/2014)</a>
+		<h3>Development Integration Project: Line Up World Cup</h3>
+     	 <p>I was asked to achieve a management application to the
+			World Cup.
+	JEE/JSF/Hibernate/PRIMEFACES
+	web service/ASP .NET/MVC 4/WindowsPhoneSDK 8</p>
+	<a href="#">ESPRIT (2013/2014)</a>
+	<h3>Network and systems integration project: IBM LOTUS NOTES</h3>
+      <p>In a team of five people we were asked to put in place a network
+		architecture suitable for the needs of the customer company.
+		Install a VOIP solution/Setting up a storage solution
+		Implementation of several security and supervision solutions
+		Ensuring the interconnection between different company sites</p>
+    </div>
+    <div class="col-sm-4">
+      <h2>Useful links:</h2>
+<ul>
+<li><a href="http://goodylabs.com/">Goodylabs</a>
+<li><a href="https://twitter.com/goodylabs">Twitter</a>
+
+</ul>
+    </div>
+   
+  </div>
+</div>
+</body>
